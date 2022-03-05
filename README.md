@@ -8,4 +8,4 @@ para levantar correctamente tener 3 consolas de comando para realizar el proceso
 
 3-json-server --watch data/bdUsers.json --port 4002
 
-ya ejecutada a la vez ejecutar mediante localhost abrir el archico html en un navagador
+ya ejecutada a la vez ejecutar mediante localhost abrir el archivo index.html en un navagador web
